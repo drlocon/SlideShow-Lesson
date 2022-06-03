@@ -1,4 +1,4 @@
-# DMM WEBCAMP コンテンツ【JavaScript を学ぼう】
+# DMM WEBCAMPコンテンツ【JavaScript を学ぼう】
 
 DMM WEBCAMP の学習コンテンツ JavaScript を学ぼうの演習です。
 
