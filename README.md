@@ -1,4 +1,8 @@
-# DMM WEBCAMPコンテンツ【JavaScriptを学ぼう】
-DMM WEBCAMPの学習コンテンツJavaScriptを学ぼうの練習問題です。
+# DMM WEBCAMP コンテンツ【JavaScript を学ぼう】
+
+DMM WEBCAMP の学習コンテンツ JavaScript を学ぼうの演習です。
+jQuery のプラグイン「Skippr」でスライドショーを作成しました。
+
 ## 使い方
-PCブラウザで実行できます。
+
+PC ブラウザで実行できます。
